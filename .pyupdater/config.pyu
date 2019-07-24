@@ -1,0 +1,95 @@
+{
+  "config_dir": "/Users/joseph/work/updater_test/.pyupdater",
+  "filename": "/Users/joseph/work/updater_test/.pyupdater/config.pyu",
+  "count": 0,
+  "app_config": {
+    "APP_NAME": "TKTest",
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "COMPANY_NAME": "Test Company",
+    "PLUGIN_CONFIGS": {},
+    "UPDATE_PATCHES": false,
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "HTTP_TIMEOUT": 30,
+    "UPDATE_URLS": [
+      "http://localhost:3000"
+    ],
+    "DATA_DIR": "/Users/joseph/work/updater_test"
+  },
+  "keypack": {
+    "client": {
+      "offline_public": "uQxdClM75JmCEsj4zTLw67k8JbHSm76RthN2JlBX4qw"
+    },
+    "repo": {
+      "app_private": "/gkp82CidUrU8+xWuacgjqaDz96AI1BRU/6FlxPv3WQ"
+    },
+    "upload": {
+      "app_public": "JYjA5lA87xM2GFb6mrESFNjfkMb/dotIz7PVk9ls0cM",
+      "signature": "JlEIAgJQbPFRu2hhcoZoZ2sN7uRIT3sC7WnfA5sFG30kXb9UfHNChw2mScO+bHm4pH/8RPjizxG1T5r+lfj5Dw"
+    }
+  },
+  "version_meta": {
+    "updates": {
+      "TKTest": {
+        "0.0.1.2.0": {
+          "mac": {
+            "file_hash": "941b35630ed9a279575865db62c70807c3339d25e075ff4bbf30d929170b61b1",
+            "file_size": 6613691,
+            "filename": "TKTest-mac-0.0.1.tar.gz"
+          }
+        },
+        "0.0.2.2.0": {
+          "mac": {
+            "file_hash": "97f85b78ad767f558fa2f519821dacf113e8af6a9bb725146e9b29127a8deea8",
+            "file_size": 6612869,
+            "filename": "TKTest-mac-0.0.2.tar.gz"
+          }
+        },
+        "0.0.3.2.0": {
+          "mac": {
+            "file_hash": "5a2125d59a13b9b55d7a39d5e854d24d41ae112b94096f8b5903fab636e2c885",
+            "file_size": 6614202,
+            "filename": "TKTest-mac-0.0.3.tar.gz"
+          }
+        },
+        "0.0.5.2.0": {
+          "mac": {
+            "file_hash": "07a97cb5761a76da9011ec7f5653ac58835046e3d912ba5d734530c63a9d38e6",
+            "file_size": 6684552,
+            "filename": "TKTest-mac-0.0.5.tar.gz"
+          }
+        },
+        "0.0.6.2.0": {
+          "mac": {
+            "file_hash": "2541d42a0c71cef33db44e6f73b18a22e31f1b928e4104e21611be53e7b5ecba",
+            "file_size": 6685893,
+            "filename": "TKTest-mac-0.0.6.tar.gz"
+          }
+        },
+        "0.0.7.2.0": {
+          "mac": {
+            "file_hash": "9a8bb142585fbd8213f573d2e9b0fc59fe778fe2d58b32c1a69711b3b21db990",
+            "file_size": 6684435,
+            "filename": "TKTest-mac-0.0.7.tar.gz"
+          }
+        }
+      }
+    },
+    "latest": {
+      "TKTest": {
+        "stable": {
+          "mac": "0.0.7.2.0"
+        }
+      }
+    }
+  },
+  "py_repo_config": {
+    "patches": {},
+    "package": {
+      "TKTest": {
+        "mac": "0.0.7.2.0"
+      }
+    }
+  }
+}
